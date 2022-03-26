@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Dawid.
 
 
-- 👀 I am interested in embedded real-time, hard and soft, as well as well as embedded systems.
+- 👀 I am interested in embedded real-time, hard and soft, as well as bare metal embedded systems.
 - 
-- 🌱 I’m currently studying towards my bachelors of science in computer science at 
+-    Additionally, I enjoy working on Linux as a desktop or with RT_Preemtpatch as an RTOS.
+- 
+- 🌱 Currently, I'm studying towards my bachelors of science in computer science at 
 - 
 -    University of The People, as well as furthering my knowledge of embedded systems design and software
 -    
@@ -13,7 +15,7 @@
 - 
 -    However, I would like to collaborate on aerospace embedded system technologies.
 -    
-- 📫 You can reach me through via the following ways:
+- 📫 You can reach me via the following ways:
 - 
 -    Email: dawidjblom@gmail.com
 -    
