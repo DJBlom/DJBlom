@@ -4,10 +4,10 @@
 -    Additionally, I enjoy working on Linux as a desktop or with RT_Preemtpatch as an RTOS.
 - 
 -    Currently, I'm studying towards my bachelors of science in computer science at 
--    University of The People, as well as furthering my knowledge of embedded systems design and software
+-    University of The People. Additionally, furthering my knowledge of embedded systems design and software
 -    engineering.
 -    
--    Currently, I do not collaborate on any open source projects, but rather I am developing my own. 
+-    As for now, I do not collaborate on any open source projects, but rather I am developing my own. 
 -    However, I would like to collaborate on aerospace embedded system technologies.
 -    
 -    You can reach me via the following ways:
