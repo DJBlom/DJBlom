@@ -18,7 +18,7 @@ Embedded Software Engineer with 3+ years of experience in C/C++ (14–23), real-
     • Diagnosed hardware communication issues across UART, I2C, and SPI protocols using logic analysers and oscilloscopes, reducing system downtime and improving hardware integration reliability.
 
 ## PERSONAL PROJECTS
-#### Present ----------- Software Engineer, 
+#### Present | Software Engineer, 
 	Invoicing System Project
     • Developed a Linux-based invoicing application for small businesses to create, print, and email client invoices and statements.
     • Implemented GUI and PDF generation features using GTKMM, Cairomm, and Poppler libraries; integrated emailing capabilities using libcurl.
