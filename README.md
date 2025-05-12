@@ -6,7 +6,7 @@ London, Canada, (1) 519 697 2945, dawidjblom@gmail.com, LinkedIn, GitHub
 Embedded Software Engineer with 3+ years of experience in C/C++ (14–23), real-time systems, and embedded Linux development. Skilled in ZephyrRTOS, TDD, static code analysis, and secure firmware design. Demonstrated success in improving system reliability and reducing downtime.
 
 ## WORK EXPERIENCE
-#### 2022 – Present 	Embedded Software Engineer, 
+#### 2022 – Present -----------	Embedded Software Engineer, 
 	Trojan Technologies
     • Developed deterministic real-time applications using ZephyrRTOS, leveraging its scheduler and driver model to control sensors and process data under strict timing constraints.
     • Developed real-time embedded software in C/C++ (14, 17, 20, 23) for sensor communication, achieving a 10% improvement in system accuracy.
@@ -18,13 +18,13 @@ Embedded Software Engineer with 3+ years of experience in C/C++ (14–23), real-
     • Diagnosed hardware communication issues across UART, I2C, and SPI protocols using logic analysers and oscilloscopes, reducing system downtime and improving hardware integration reliability.
 
 ## PERSONAL PROJECTS
-#### Present 	Software Engineer, 
+#### Present ----------- Software Engineer, 
 	Invoicing System Project
     • Developed a Linux-based invoicing application for small businesses to create, print, and email client invoices and statements.
     • Implemented GUI and PDF generation features using GTKMM, Cairomm, and Poppler libraries; integrated emailing capabilities using libcurl.
     • Enhanced software engineering skills with a focus on user interface design and document automation workflows.
 
-#### Present	Embedded Software Engineer, 
+#### Present ----------- Embedded Software Engineer, 
 	Garden-Bot Project
     • Engineered a smart automated irrigation system to improve embedded systems design expertise and explore advanced IoT technologies.
     • Designed GNSS-based algorithms for accurate proximity verification and integrated OTA updates using Mender.
