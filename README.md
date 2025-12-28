@@ -15,24 +15,24 @@ architecture, disciplined software practices, and thoughtful problem-solving.
 #### Embedded Software Designer
 #### Trojan Technologies, London, ON, Canada								2023 - Present    
 
-At Trojan Technologies, I work as an Embedded Software Designer developing  
-real-time control systems for industrial ultraviolet water treatment products. I   
-design, develop, and integrate control logic for an expandable embedded  
-platform that enables plug-and-play functionality across current and future   
-product lines. The primary technologies used include ZephyrRTOS, MCUboot,  
-C, C++, Python, and NXP’s i.MX RT1062 ARM microcontroller.   
+At Trojan Technologies, I work as an Embedded Software Designer developing
+real-time control systems for industrial ultraviolet water treatment products. I
+design, develop, and integrate control logic for an expandable embedded
+platform that enables plug-and-play functionality across current and future
+product lines. The primary technologies used include ZephyrRTOS, MCUboot,
+C, C++, Python, and NXP’s i.MX RT1062 ARM microcontroller.
 
-My work includes:    
+My work includes:
 
-- Designing and implementing real-time task execution using ZephyrRTOS   
-- Configuring MCUboot to support secure firmware update workflows  
-- Implementing sensor data acquisition via SPI, I²C, UART/RS485, ADC, and  
-  TCP/IP interfaces   
-- Developing control logic for ultraviolet dose pacing, lamp wiper control, and   
-  system monitoring    
-- Contributing to system architecture to ensure loose coupling of I/O, CPU,   
-  and memory operations within a distributed closed-loop control    
-  environment    
+- Designing and implementing real-time task execution using ZephyrRTOS
+- Configuring MCUboot to support secure firmware update workflows
+- Implementing sensor data acquisition via SPI, I²C, UART/RS485, ADC, and
+  TCP/IP interfaces
+- Developing control logic for ultraviolet dose pacing, lamp wiper control, and
+  system monitoring
+- Contributing to system architecture to ensure loose coupling of I/O, CPU,
+  and memory operations within a distributed closed-loop control
+  environment
   
 In addition to technical contributions, I identified gaps in the use of disciplined
 software engineering practices and helped introduce test-driven development,
