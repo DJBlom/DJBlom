@@ -1,57 +1,127 @@
 # Dawid, J. Blom
+#### Embedded Software Engineer
 
-London, Canada, (1) 519 697 2945, dawidjblom@gmail.com, LinkedIn, GitHub
 
-## SUMMARY
-Embedded Software Engineer with 3+ years of experience in C/C++ (14–23), real-time systems, and embedded Linux development. Skilled in ZephyrRTOS, TDD, static code analysis, and secure firmware design. Demonstrated success in improving system reliability and reducing downtime.
+## PROFILE
+	I am an embedded software engineer with over 3 years of experience, focusing
+	on building robust, deterministic, and maintainable systems. I work across the
+	full lifecycle of software, from low-level implementation to system-level design,
+	and place a high value on correctness, reliability, and long-term sustainability. I
+	approach development with an engineering mindset, emphasizing clear
+	architecture, disciplined software practices, and thoughtful problem-solving.
 
-## WORK EXPERIENCE
-#### 2022 – Present | Embedded Software Engineer, 
-	Trojan Technologies
-    • Developed deterministic real-time applications using ZephyrRTOS, leveraging its scheduler and driver model to control sensors and process data under strict timing constraints.
-    • Developed real-time embedded software in C/C++ (14, 17, 20, 23) for sensor communication, achieving a 10% improvement in system accuracy.
-    • Enhanced software robustness and maintainability through rigorous test-driven development TDD, CMake/CTest, CppUTest, and continuous integration practices.
-    • Performed static analysis and debugging with Cppcheck, Valgrind, and GDB, reducing runtime errors by 25%.
-    • Developed a real-time TCP/IP network communication utilizing a star topology.
-    • Secured embedded systems by implementing MCUboot and following best cybersecurity practices, ensuring firmware integrity.
-    • Collaborated within cross-functional teams utilizing Git and Agile methodologies to streamline project delivery and facilitate peer reviews.
-    • Diagnosed hardware communication issues across UART, I2C, and SPI protocols using logic analysers and oscilloscopes, reducing system downtime and improving hardware integration reliability.
+
+## EMPLOYMENT
+#### Embedded Software Designer
+#### Trojan Technologies, London, ON, Canada							2023 - Present    
+
+	At Trojan Technologies, I work as an Embedded Software Designer developing
+	real-time control systems for industrial ultraviolet water treatment products. I
+	design, develop, and integrate control logic for an expandable embedded
+	platform that enables plug-and-play functionality across current and future
+	product lines. The primary technologies used include ZephyrRTOS, MCUboot,
+	C, C++, Python, and NXP’s i.MX RT1062 ARM microcontroller.
+
+	My work includes:
+	- Designing and implementing real-time task execution using ZephyrRTOS
+	- Configuring MCUboot to support secure firmware update workflows
+	- Implementing sensor data acquisition via SPI, I²C, UART/RS485, ADC, and
+      TCP/IP interfaces
+	- Developing control logic for ultraviolet dose pacing, lamp wiper control, and
+      system monitoring
+	- Contributing to system architecture to ensure loose coupling of I/O, CPU,
+      and memory operations within a distributed closed-loop control
+      environment
+  
+	In addition to technical contributions, I identified gaps in the use of disciplined
+	software engineering practices and helped introduce test-driven development,
+	code coverage metrics, static code analysis, and model-based systems
+	engineering. These efforts improved software quality, consistency, and long-
+	term maintainability across the firmware team.
+
+
+#### Embedded Software Designer Intern
+#### Trojan Technologies, London, ON, Canada								2022 - 2023 
+
+	At Trojan Technologies, I worked as an Embedded Software Designer Intern
+	supporting improvements to legacy industrial control systems for ultraviolet
+	water treatment products. Working primarily with C and Python, I collaborated
+	with experienced engineers to analyze system architectures, evaluate systembehavior, 
+	conduct Voice of Customer (VoC) sessions, and build prototypes to validate design 
+	concepts within the constraints of deployed systems. This role strengthened my 
+	systems thinking, collaborative engineering skills, and ability to translate 
+	customer feedback into technical solutions.
+
+#### Software Engineer
+#### KeepIn, Sete Lagoas, MG, Brasil										2021 - 2022
+
+	At KeepIn, I worked as a Software Engineer on a home automation mobile
+	application, contributing to the enhancement and stabilization of a large legacy
+	codebase developed in Delphi. I implemented new features, integrated device
+	communication using HTTPS, MQTT, and Infrared (IR), and collaborated across
+	application and device-integration layers to improve reliability, performance, and
+	overall user experience while maintaining backward compatibility. The primary
+	technologies used included Delphi and SQL with SQLite3.
+	
 
 ## PERSONAL PROJECTS
-#### Present | Software Engineer, 
-	Invoicing System Project
-    • Developed a Linux-based invoicing application for small businesses to create, print, and email client invoices and statements.
-    • Implemented GUI and PDF generation features using GTKMM, Cairomm, and Poppler libraries; integrated emailing capabilities using libcurl.
-    • Enhanced software engineering skills with a focus on user interface design and document automation workflows.
+#### Invoicing System Project 2025
+	I designed and developed a Linux-based invoicing application used in
+	production by two small businesses in South Africa, T.M Engineering and T.C
+	Engineering. The system supports invoice and statement creation, PDF
+	generation, printing, and email distribution, and was built to address real
+	operational needs within the mechanical engineering sector.
+	
+	Through this project, I intentionally explored technologies outside my primary
+	professional stack, including GTKMM, CairoMM, and Poppler for GUI and
+	document generation, SQLite3 for persistent storage, and libcurl for email
+	delivery. The project emphasized clean architecture, maintainability, and reliable
+	automation workflows while independently learning and integrating unfamiliar
+	technologies.
 
-#### Present | Embedded Software Engineer, 
-	Garden-Bot Project
-    • Engineered a smart automated irrigation system to improve embedded systems design expertise and explore advanced IoT technologies.
-    • Designed GNSS-based algorithms for accurate proximity verification and integrated OTA updates using Mender.
-    • Built customized embedded Linux solutions using the Yocto Project and Buildroot.
-    • Developed real-time application components leveraging POSIX and Rate Monotonic scheduling.
-    • Created Epimetheus, a web-based feasibility testing tool utilizing HTML, CSS, and JavaScript, and established robust CI/CD pipelines with Docker, Bash scripting, and GitHub Actions.
-
+	
 ## EDUCATION
-2025 – Present 	University of Colorado Boulder, 		                  Boulder, U.S.A
-	Masters of Science, Computer Science	
+### Master of Science								2024 - Present    
+#### Unviersity of Colorado Boulder, Boulder 		
+	Computer Science
 
-2020 – 2024 	University of The People, 				     Pasadena, U.S.A
-	Bachelor of Science, Computer Science	
+### Graduate Certificate							2024 - 2025    
+#### University of Colorado Boulder, Boulder 
+	Artificial Intelligence
 
-2022 	University of The People, 				     Pasadena, U.S.A
-	Undergraduate Certificate, Networking and 
-	Application Security
+### Bachelor of Science								2020 - 2024
+#### University of The People, Pasadena
+	Computer Science
+
 
 ## SKILLS	
-#### Programming Languages
-    • C++, C, Python3, Bash, SQL
-#### Tools & Frameworks
-    • Git, CMake, Docker, TensorFlow, OpenCV, Gtkmm, Cairomm, Poppler, libcurl, Yocto, Buildroot, MCUboot, Mender, ZephyrRTOS
-#### Testing & Debugging
-    • CppCheck, CppUTest, CTest, Valgrind, GDB, GCOV, Logic Analysers
-#### Soft Skills
-    • Critical thinking, Root cause analysis, Clear communication, Cross-functional collaboration
+	C / C++ programming
+	Python programming
+	Rust programming
+	SQL programming
+	Real-time systems design (ZephyrRTOS & Linux)
+	Low-level hardware communication (SPI, I²C, UART)
+	Signal filtering and scaling (ADC)
+	Networking (TCP/IP, HTTPS, MQTT)
+	Root-cause analysis and debugging (JTAG/SWD)
+	Model-based systems engineering (SysML)
+
+	
+## Languages
+	English
+	Afrikaans
+	Hobbies
+	Hiking and camping
+	Tinkering with embedded Linux
+	Reading
+	Mathematics
+
+
+## Achievements
+	Introduced disciplined embedded software engineering practices adopted
+	across the software team.
+	Improved embedded system reliability by approximately 15% through
+	deterministic design and low-level fault resolution.
 
 <!---
 DJBlom/DJBlom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
