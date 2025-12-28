@@ -13,7 +13,7 @@ architecture, disciplined software practices, and thoughtful problem-solving.
 
 ## EMPLOYMENT
 ### Embedded Software Designer
-#### Trojan Technologies, London, ON, Canada								2023 - Present    
+#### Trojan Technologies, London, ON, Canada                                 2023 - Present    
 
 At Trojan Technologies, I work as an Embedded Software Designer developing
 real-time control systems for industrial ultraviolet water treatment products. I
@@ -42,7 +42,7 @@ term maintainability across the firmware team.
 
 
 ### Embedded Software Designer Intern
-#### Trojan Technologies, London, ON, Canada								2022 - 2023 
+#### Trojan Technologies, London, ON, Canada                                2022 - 2023 
 
 At Trojan Technologies, I worked as an Embedded Software Designer Intern
 supporting improvements to legacy industrial control systems for ultraviolet
@@ -54,7 +54,7 @@ systems thinking, collaborative engineering skills, and ability to translate
 customer feedback into technical solutions.
 
 ### Software Engineer
-#### KeepIn, Sete Lagoas, MG, Brasil										2021 - 2022
+#### KeepIn, Sete Lagoas, MG, Brasil                                        2021 - 2022
 
 At KeepIn, I worked as a Software Engineer on a home automation mobile
 application, contributing to the enhancement and stabilization of a large legacy
@@ -66,7 +66,7 @@ technologies used included Delphi and SQL with SQLite3.
 	
 
 ## PERSONAL PROJECTS
-### Invoicing System Project 2025
+### Invoicing System Project                                                       2025
 I designed and developed a Linux-based invoicing application used in
 production by two small businesses in South Africa, T.M Engineering and T.C
 Engineering. The system supports invoice and statement creation, PDF
@@ -82,15 +82,15 @@ technologies.
 
 	
 ## EDUCATION
-### Master of Science								2024 - Present    
+### Master of Science								                       2024 - Present    
 #### Unviersity of Colorado Boulder, Boulder 		
 Computer Science
 
-### Graduate Certificate							2024 - 2025    
+### Graduate Certificate							                       2024 - 2025    
 #### University of Colorado Boulder, Boulder 
 Artificial Intelligence
 
-### Bachelor of Science								2020 - 2024
+### Bachelor of Science								                       2020 - 2024
 #### University of The People, Pasadena
 Computer Science
 
