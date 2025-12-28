@@ -12,7 +12,7 @@ architecture, disciplined software practices, and thoughtful problem-solving.
 
 
 ## EMPLOYMENT
-#### Embedded Software Designer
+### Embedded Software Designer
 #### Trojan Technologies, London, ON, Canada								2023 - Present    
 
 At Trojan Technologies, I work as an Embedded Software Designer developing
@@ -41,7 +41,7 @@ engineering. These efforts improved software quality, consistency, and long-
 term maintainability across the firmware team.
 
 
-#### Embedded Software Designer Intern
+### Embedded Software Designer Intern
 #### Trojan Technologies, London, ON, Canada								2022 - 2023 
 
 At Trojan Technologies, I worked as an Embedded Software Designer Intern
@@ -53,7 +53,7 @@ concepts within the constraints of deployed systems. This role strengthened my
 systems thinking, collaborative engineering skills, and ability to translate 
 customer feedback into technical solutions.
 
-#### Software Engineer
+### Software Engineer
 #### KeepIn, Sete Lagoas, MG, Brasil										2021 - 2022
 
 At KeepIn, I worked as a Software Engineer on a home automation mobile
@@ -66,7 +66,7 @@ technologies used included Delphi and SQL with SQLite3.
 	
 
 ## PERSONAL PROJECTS
-#### Invoicing System Project 2025
+### Invoicing System Project 2025
 I designed and developed a Linux-based invoicing application used in
 production by two small businesses in South Africa, T.M Engineering and T.C
 Engineering. The system supports invoice and statement creation, PDF
