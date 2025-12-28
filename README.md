@@ -96,35 +96,35 @@ Computer Science
 
 
 ## SKILLS	
-C / C++ programming
-Python programming
-Rust programming
-SQL programming
-Real-time systems design (ZephyrRTOS & Linux)
-Low-level hardware communication (SPI, I²C, UART)
-Signal filtering and scaling (ADC)
-Networking (TCP/IP, HTTPS, MQTT)
-Root-cause analysis and debugging (JTAG/SWD)
-Model-based systems engineering (SysML)
+- C / C++ programming
+- Python programming
+- Rust programming
+- SQL programming
+- Real-time systems design (ZephyrRTOS & Linux)
+- Low-level hardware communication (SPI, I²C, UART)
+- Signal filtering and scaling (ADC)
+- Networking (TCP/IP, HTTPS, MQTT)
+- Root-cause analysis and debugging (JTAG/SWD)
+- Model-based systems engineering (SysML)
 
 	
 ## Languages
-English
-Afrikaans
+- English
+- Afrikaans
 
 
 ## Hobbies
-Hiking and camping
-Tinkering with embedded Linux
-Reading
-Mathematics
+- Hiking and camping
+- Tinkering with embedded Linux
+- Reading
+- Mathematics
 
 
 ## Achievements
-Introduced disciplined embedded software engineering practices adopted
-across the software team.
-Improved embedded system reliability by approximately 15% through
-deterministic design and low-level fault resolution.
+- Introduced disciplined embedded software engineering practices adopted
+  across the software team.
+- Improved embedded system reliability by approximately 15% through
+  deterministic design and low-level fault resolution.
 
 <!---
 DJBlom/DJBlom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
