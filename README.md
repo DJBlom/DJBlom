@@ -26,17 +26,20 @@ water treatment products, focusing on designing and integrating control logic fo
 embedded platform that supports plug-and-play functionality across current and future product    
 lines.
 
-    • Collaborated on reliable communication interfaces for sensor data acquisition using SPI,    
-	  I²C, UART/RS485, ADC, and TCP/IP, helping ensure smooth and consistent operation in real-time    
-	  environments.
-    • Contributed to system architecture by decoupling threads, I/O, CPU, and memory operations    
-	  within a distributed closed-loop control setup, making the software easier to maintain and    
-	  extend over time.
-    • Designed and implemented real-time control logic for key functions such as ultraviolet dose    
-	  pacing, lamp wiper control, and comprehensive system monitoring.
-    • Supported high-level platform design while helping the team adopt more disciplined engineering    
-	  practices — including test-driven development, code coverage metrics, and static code analysis —   
-	  which improved software quality and long-term consistency.
+- Collaborated on reliable communication interfaces for sensor data acquisition using SPI,
+  I²C, UART/RS485, ADC, and TCP/IP, helping ensure smooth and consistent operation in real-time
+  environments.
+  
+- Contributed to system architecture by decoupling threads, I/O, CPU, and memory operations
+  within a distributed closed-loop control setup, making the software easier to maintain and
+  extend over time.
+  
+- Designed and implemented real-time control logic for key functions such as ultraviolet dose
+  pacing, lamp wiper control, and comprehensive system monitoring.
+  
+- Supported high-level platform design while helping the team adopt more disciplined engineering
+  practices — including test-driven development, code coverage metrics, and static code analysis —
+  which improved software quality and long-term consistency.
 
 
 ### Embedded Software Designer Intern
@@ -62,6 +65,7 @@ backward compatibility so existing users could continue enjoying the app without
 primarily involved Delphi and SQL with SQLite3.   
 	
 ## EDUCATION
+
 ### Master of Science								                       2024 - Present    
 #### Unviersity of Colorado Boulder, Boulder 		
 Computer Science
@@ -76,9 +80,13 @@ Computer Science
 
 
 ## SKILLS	
+
 Embedded Real Time System Design   
-Model Based Systems Engineering   
-C, C++, Rust, Python, Bash, SQL   
+
+Model Based Systems Engineering  
+
+C, C++, Rust, Python, Bash, SQL  
+
 Linux, ZephyrRTOS, FreeRTOS   
 
 <!---
